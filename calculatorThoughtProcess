@@ -1,0 +1,14 @@
+First thinking about things the calculator will need
+
+     Buttons numbering 1-9
+     Ability to multiply, divide, add, subtract
+     To have user unable to enter text into field
+     External Java sheet using if then statements
+     External CSS 
+
+Order of tasks
+
+    1. Buttons on HTML file 
+    2. Java sheet if then functions
+    3. Orginization of buttons into columns
+    4. External CSS
